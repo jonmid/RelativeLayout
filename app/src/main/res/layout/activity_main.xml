@@ -89,6 +89,9 @@
         android:layout_alignParentBottom="true"
         android:layout_alignParentLeft="true"/>
 
+
+
+
     <!-- alinear al centro  en la parte inferior de la pantalla -->
     <TextView
         android:id="@+id/txt_8"
